@@ -1,4 +1,0 @@
-commit 0c0ccfad6c452c4d8217770230c0edf9ce8a1e65
-Author: Frederic Pillon <frederic.pillon@st.com>
-
-    Update README.md
